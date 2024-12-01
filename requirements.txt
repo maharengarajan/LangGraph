@@ -4,3 +4,6 @@ langchain==0.3.9
 langchain-groq==0.2.1
 ipykernel==6.29.5
 langchain-google-genai==2.0.6
+langchain-community==0.3.8
+chromadb==0.5.20
+langchain_chroma==0.1.4
