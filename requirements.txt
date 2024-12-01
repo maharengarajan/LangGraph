@@ -7,3 +7,5 @@ langchain-google-genai==2.0.6
 langchain-community==0.3.8
 chromadb==0.5.20
 langchain_chroma==0.1.4
+tavily-python==0.5.0
+streamlit==0.1.0
